@@ -1,0 +1,9 @@
+Package: net.voeu.legendaryrpg
+Name: Legendary RPG Patch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak to revive Tales of Phantasia on 32-bit iOS. Works with both JP 1.0.2 and WW 1.0.1.
+Maintainer: V
+Author: V
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
