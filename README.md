@@ -4,7 +4,7 @@
 ## You will need:
 * A jailbroken iOS device on iOS 10 or under.
   * If you have a compatible device in [this chart](https://github.com/LukeZGD/Legacy-iOS-Kit/wiki/OTA-Downgrade), you can downgrade to iOS 10 using Legacy-iOS-Kit by LukeZGD. Otherwise, iPhone 4S and iPhone 5 models are always 32-bit app compatible.
-* The JP 1.0.2 or WW 1.0.1 IPA from [https://archive.org/details/jp.co.bandainamcogames.nbgi0173-ios4.3-clutch-2.0.4](InternetArchive).
+* The JP 1.0.2 or WW 1.0.1 IPA from [Internet Archive](https://archive.org/details/jp.co.bandainamcogames.nbgi0173-ios4.3-clutch-2.0.4).
 
 ## Known glitches:
 * The Continue button will be available even if there isn’t actually a save present, this can be ignored.
