@@ -11,7 +11,7 @@
 
 ## Installation Guide
 1. Open Cydia, wait for the sources to load (it's normal for some of the dead sources to show errors, you can ignore that). Then go to ``Sources`` and press the ``Add Sources`` button and add the following url: ``https://lukezgd.github.io/repo/``.
-2. Once the source loads, use the search tab to search for ``AppSync Unified` and ``Filza File Manager``, install both.
+2. Once the source loads, use the search tab to search for ``AppSync Unified`` and ``Filza File Manager``, install both.
 3. You should get an app on the home screen that says ``Filza``, open it, then press the settings icon and tap “Enable WebDAV Server” (it will probably give you a timer message bc you’re using the free version of Filza, it’s okay to just ignore that).
 4. Underneath ``Enable WebDAV`` it’ll list a server address. Access the first listed address from your computer web browser. In upper right corner you’ll see an “Install” option. Click it and then select the Phantasia iOS app. The app is fairly big so it might take a while to install but eventually it’ll pop up on your home screen.
 5. Go to ``Releases`` on this Github and download the ``.deb`` file in the latest release tag.
