@@ -8,3 +8,7 @@ You will need:
 
 Known glitches:
 * The Continue button will be available even if there isn’t actually a save present, this can be ignored.
+
+**Disclaimer:** GPT-5.6 Sol was used to assist in reviving this game. However, the final build has been reviewed and tested by me.
+
+Thank you to Kevan for helping test out the game and providing the source game bundles!
