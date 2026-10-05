@@ -8,6 +8,7 @@
 
 ## Known glitches:
 * The Continue button will be available even if there isn’t actually a save present, this can be ignored.
+* The game will occasionally claim it's offline, this is purely superficial and all functions will work as normal.
 
 ## Installation Guide
 1. Open Cydia, wait for the sources to load (it's normal for some of the dead sources to show errors, you can ignore that). Then go to ``Sources`` and press the ``Add Sources`` button and add the following url: ``https://lukezgd.github.io/repo/``.
